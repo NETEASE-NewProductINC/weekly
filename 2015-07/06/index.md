@@ -1,11 +1,14 @@
 ### New Tech
 
 * [Material Design Lite](https://medium.com/google-developers/introducing-material-design-lite-3ce67098c031)
+
 推荐理由：Material Design 是 Google 2014 年推出的设计标准，期望在不同的设备上都有良好的体验和优雅的体验，通过 MDL 可以方便的给网站添加 Material Design 的效果
 推荐关键词：Material Design, Polymer, Web Components
 
 * [A Quick Tour Of ES6](http://jamesknelson.com/es6-the-bits-youll-actually-use/)
+
 推荐理由：ES6 已经正式定版一段时间了，我们也需要对 ES6 有一个初步的了解
+
 推荐关键词： ES6, Quick
 
 ### Tips
