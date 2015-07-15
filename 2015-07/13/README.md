@@ -5,7 +5,7 @@
    *关键字： selector*
 
    https://css-tricks.com/the-css-box-model/   
-   学习css合模型。   
+   学习css盒模型。   
    *关键字： box padding margin*   
 
    https://css-tricks.com/snippets/css/a-guide-to-flexbox/   
