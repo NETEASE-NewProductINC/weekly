@@ -1,39 +1,39 @@
-###ÖªÊ¶µã£º
-http://www.w3.org/TR/selectors4/
-http://www.sitepoint.com/future-generation-css-selectors-level-4/
-ÁË½âÑ§Ï°cssĞÂÔöµÄÑ¡ÔñÆ÷¡£
-*¹Ø¼ü×Ö£º selector*
+###çŸ¥è¯†ç‚¹ï¼š
+   http://www.w3.org/TR/selectors4/   
+   http://www.sitepoint.com/future-generation-css-selectors-level-4/   
+   äº†è§£å­¦ä¹ cssæ–°å¢çš„é€‰æ‹©å™¨ã€‚   
+   *å…³é”®å­—ï¼š selector*
 
-https://css-tricks.com/the-css-box-model/
-Ñ§Ï°cssºÏÄ£ĞÍ¡£
-*¹Ø¼ü×Ö£º box padding margin*
+   https://css-tricks.com/the-css-box-model/   
+   å­¦ä¹ cssåˆæ¨¡å‹ã€‚   
+   *å…³é”®å­—ï¼š box padding margin*   
 
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-css²¼¾ÖÖ®ĞÂÑ¡Ôñflexbox
-*¹Ø¼ü×Ö£º layout flexbox*
+   https://css-tricks.com/snippets/css/a-guide-to-flexbox/   
+   csså¸ƒå±€ä¹‹æ–°é€‰æ‹©flexbox   
+   *å…³é”®å­—ï¼š layout flexbox*   
 
-http://blogs.adobe.com/dreamweaver/2015/06/css-only-raindrops-on-window-effect.html
-ÓêµÎ»¬Âä£¬css¶¯»­ÖÆ×÷Ñ§Ï°¡£
-*¹Ø¼ü×Ö£ºcss animation*
+   http://blogs.adobe.com/dreamweaver/2015/06/css-only-raindrops-on-window-effect.html   
+   é›¨æ»´æ»‘è½ï¼ŒcssåŠ¨ç”»åˆ¶ä½œå­¦ä¹ ã€‚   
+   *å…³é”®å­—ï¼šcss animation*   
 
-http://www.sitepoint.com/introduction-css-will-change-property/
-WebkitÄÚºËµÄä¯ÀÀÆ÷ÖĞcss¶¯»­ÓĞÉÁË¸µÄÏÖÏó¡£ÓÃÕâ¸ö×¨ÃÅµÄÊôĞÔÀ´Í¨Öªä¯ÀÀÆ÷¹Ø×¢ÌØĞÔµÄ±ä»¯£¬½øĞĞÓÅ»¯ºÍ·ÖÅäÄÚ´æ£¬½â¾ö¶¯»­Ìø¶¯¡£
-*¹Ø¼ü×Ö£ºGPU css¶¯»­ Ó²¼ş¼ÓËÙ*
+   http://www.sitepoint.com/introduction-css-will-change-property/   
+   Webkitå†…æ ¸çš„æµè§ˆå™¨ä¸­cssåŠ¨ç”»æœ‰é—ªçƒçš„ç°è±¡ã€‚ç”¨è¿™ä¸ªä¸“é—¨çš„å±æ€§æ¥é€šçŸ¥æµè§ˆå™¨å…³æ³¨ç‰¹æ€§çš„å˜åŒ–ï¼Œè¿›è¡Œä¼˜åŒ–å’Œåˆ†é…å†…å­˜ï¼Œè§£å†³ åŠ¨ç”»è·³åŠ¨ã€‚   
+   *å…³é”®å­—ï¼šGPU cssåŠ¨ç”» ç¡¬ä»¶åŠ é€Ÿ*   
 
 
-###À©Õ¹£º
-1200px.com
-960.gs
-*¹Ø¼ü×Ö£ºgrid systems Õ¤¸ñÉè¼Æ*
+###æ‰©å±•ï¼š
+   1200px.com   
+   960.gs   
+   *å…³é”®å­—ï¼šgrid systems æ …æ ¼è®¾è®¡*   
 
-###×ÊÁÏ£º
+###èµ„æ–™ï¼š
 * https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 * https://css-tricks.com/
 * http://lea.verou.me/tag/css/
 * http://www.css3.info/
 
 
-###css¶¯»­ĞÀÉÍ£º
+###cssåŠ¨ç”»æ¬£èµï¼š
 * http://codepen.io/SirHound/pen/rVyxpP
 * http://codepen.io/jaysalvat/pen/ogQbKB/
 * http://codepen.io/thebabydino/pen/xGgZJw
