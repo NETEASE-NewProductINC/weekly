@@ -31,3 +31,10 @@
     推荐理由：是不是每次为了 CSS 命名都伤透了脑筋，来看看这篇文章，介绍了各种方式
 
     推荐关键词：OOCSS, BEM, SMACSS
+
+* [Perf audit: Loading performance](https://github.com/reddit/reddit-mobile/issues/247)
+
+    推荐理由：看大神 Paulirish 怎样进行性能分析，怎样吐槽 reddit，强烈建议各位可以更着他的步骤去分析一下我们自己的 Site
+
+    推荐关键词：Performance, devtools
+
