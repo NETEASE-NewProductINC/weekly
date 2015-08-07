@@ -2,9 +2,9 @@
 
 * [使用css和svg实现饼图](http://www.smashingmagazine.com/2015/07/designing-simple-pie-charts-with-css/)
 
-    推荐理由：Material Design 是 Google 2014 年推出的设计标准，期望在不同的设备上都有良好的体验和优雅的体验，通过 MDL 可以方便的给网站添加 Material Design 的效果
+    推荐理由：体验最新css3 属性
 
-    推荐关键词：Material Design, Polymer, Web Components
+    推荐关键词：transform-based，svg
 
 ### 分享
 
