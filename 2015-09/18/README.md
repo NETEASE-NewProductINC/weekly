@@ -8,3 +8,6 @@
 
 http://xiaotianxia.github.io/entern
 
+## jQuery源码分析
+# jQuery事件管理机制
+* 详情请看PPT	
